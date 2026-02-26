@@ -93,7 +93,7 @@
     <string name="message_view_term_4">لا يتم حفظ الرسائل التي يرسلها جهات اتصالك ويحذفها أثناء عدم اتصالك بالإنترنت بواسطة WhatSave لأن هاتفك لن يتلقى إشعار WhatsApp.</string>
     <string name="message_view_term_5">تذكر أن WhatSave هو تطبيق مفتوح المصدر، لذا يمكنك دائمًا مراجعة عمله الداخلي للتأكد من عدم المساس بخصوصيتك.</string>
     <string name="phone_number_invalid">رقم الهاتف المدخل غير صالح</string>
-    <string name="phone_number_label">رقم التليفون</string>
+    <string name="phone_number_label">رقم الهاتف</string>
     <string name="message_label">رسالة</string>
     <string name="message_view_term_3">سيتم معالجة إشعارات واتساب فقط. تُحفظ الرسائل على هذا الجهاز فقط.</string>
     <string name="statuses_location_title">موقع الحالات</string>
@@ -103,9 +103,9 @@
     <string name="author_title">مؤلف</string>
     <string name="delete_conversation_confirmation">سيؤدي هذا إلى حذف جميع الرسائل من هذه المحادثة.</string>
     <string name="no_conversations">لا توجد محادثات لعرضها</string>
-    <string name="send_action">يرسل</string>
-    <string name="information">معلومة</string>
-    <string name="about_title">عن</string>
+    <string name="send_action">إرسال</string>
+    <string name="information">معلومات</string>
+    <string name="about_title">حول التطبيق</string>
     <string name="about_summary">الإصدار، الروابط، الاتصال.</string>
     <string name="latest_release_summary">عرض أحدث إصدار من التطبيق والتغييرات الأخيرة.</string>
     <string name="message_view_term_1">تقوم هذه الوظيفة بقراءة محتوى إشعارات WhatsApp لحفظ الرسائل المستلمة.</string>
@@ -113,7 +113,7 @@
     <string name="accept_and_continue">قبول ومواصلة</string>
     <string name="no_blacklisted_senders">هنا سوف تظهر لك الأشخاص الذين لا تريد حفظ رسائلهم.</string>
     <string name="dark_theme">مظلم</string>
-    <string name="light_theme">ضوء</string>
+    <string name="light_theme">فاتح</string>
     <string name="follow_system">اتبع النظام</string>
     <string name="latest_release_title">أحدث إصدار</string>
     <string name="translations_title">الترجمات</string>
@@ -137,7 +137,7 @@
     <string name="directory_access_title">وصول الدليل</string>
     <string name="never">أبداً</string>
     <string name="directory_access_description">يجب أن تسمح لهذا التطبيق بقراءة الدليل (الدليل) حيث يقوم WhatsApp بتخزين الحالات.</string>
-    <string name="grant_access_action">منحة الوصول</string>
+    <string name="grant_access_action">منح الوصول</string>
     <string name="how_to_title">كيف؟</string>
     <string name="accessible_directories">الدلائل التي يمكن الوصول إليها</string>
     <string name="got_it_action">فهمتها!</string>
@@ -146,7 +146,7 @@
     <string name="revoke_action">إلغاء</string>
     <string name="permissions_revoked_successfully">ألغي الأذونات بنجاح.</string>
     <string name="permission_granted">منح إذن</string>
-    <string name="grant_permissions">أذونات منح</string>
+    <string name="grant_permissions">منح الأذونات</string>
     <string name="ultra_slow">بطيئة للغاية</string>
     <string name="slow">بطيئة</string>
     <string name="fast">سريع</string>
@@ -162,12 +162,12 @@
     <string name="download_action">تحميل</string>
     <string name="only_wifi_title">فقط Wi-Fi</string>
     <string name="permissions_denied_message">يجب أن تمنح الأذونات المطلوبة. لن يعمل هذا التطبيق بشكل صحيح بدون هذه الأذونات.</string>
-    <string name="grant_action">منحة</string>
+    <string name="grant_action">منح الإذن</string>
     <string name="review_permissions_title">مراجعة أذونات</string>
     <string name="quick_deletion_summary">يسمح بحذف الحالات المحفوظة دون عرض نافذة تأكيد. غير موصى به.</string>
     <string name="whatsapp_icon_summary">عرض رمزًا صغيرًا أسفل كل حالة لتحديد العميل الذي تم الحصول عليه.</string>
     <string name="language_name">لغة</string>
-    <string name="auto_update_title">آلي. تحديث البحث</string>
+    <string name="auto_update_title">البحث التلقائي عن تحديثات</string>
     <string name="downloading_update">تنزيل تحديث WhatsApp</string>
     <string name="ultra_fast">بسرعة فائقة</string>
     <string name="playback_speed">سرعة التشغيل</string>
@@ -179,7 +179,7 @@
     <string name="storage_access_description">يعد إذن الوصول إلى التخزين ضروريًا للتحميل وحفظ الحالات.</string>
     <string name="permissions_granted_successfully">الأذونات الممنوحة بنجاح.</string>
     <string name="select_the_correct_location">من فضلك ، حدد الموقع الصحيح.</string>
-    <string name="continue_action">يكمل</string>
+    <string name="continue_action">استمرار</string>
     <string name="according_to_the_file_type_title">وفقا لنوع الملف</string>
     <string name="system_default">النظام الافتراضي</string>
     <string name="every_day">كل يوم</string>
